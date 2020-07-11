@@ -1,0 +1,7 @@
+<suite name="Testingsuite">
+	<test name="Covid test">
+		<classes>
+			<class name = "covid.testng" />
+		</classes>
+	</test>
+</suite>

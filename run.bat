@@ -1,0 +1,1 @@
+java -cp D:\xampp\htdocs\covid\bin;D:\xampp\htdocs\covid\lib\* org.testng.TestNG testng.xml
