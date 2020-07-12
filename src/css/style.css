@@ -205,12 +205,12 @@ input[type=checkbox] {
   -o-appearance: checkbox !important;
   -ms-appearance: checkbox !important; }
 
-/*input[type=radio] {
+input[type=radio] {
   appearance: radio !important;
   -moz-appearance: radio !important;
   -webkit-appearance: radio !important;
   -o-appearance: radio !important;
-  -ms-appearance: radio !important; }*/
+  -ms-appearance: radio !important; }
 
 img {
   max-width: 100%;
@@ -302,7 +302,7 @@ label {
   margin-bottom: 18px; }
   .form-radio input {
     width: auto;
-    display: inline-block; }
+    display: inline-block;}
 
 .radio-label {
   padding-right: 72px; }
@@ -319,10 +319,10 @@ label {
     display: block;
     cursor: pointer; }
 
-.check {
+/*.check {
   display: inline-block;
   position: absolute;
-  /*border: 1px solid #ebebeb;*/
+  border: 1px solid #ebebeb;
   border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -350,12 +350,12 @@ label {
     left: 2px;
     margin: auto;
     transition: background 0.25s linear;
-    -webkit-transition: background 0.25s linear; }
+    -webkit-transition: background 0.25s linear; }*/
 
 input[type=radio] {
   position: absolute;
-  /*visibility: hidden;*/ }
-  /*input[type=radio]:checked ~ .check {
+ /* visibility: hidden;*/ }
+ /* input[type=radio]:checked ~ .check {
     border: 1px solid #53e0ce; }
   input[type=radio]:checked ~ .check::before {
     background: #53e0ce; }*/

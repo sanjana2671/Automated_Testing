@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Testingsuite" duration-ms="47703" started-at="2020-07-11T20:47:50Z" finished-at="2020-07-11T20:48:38Z">
+  <suite name="Testingsuite" duration-ms="49609" started-at="2020-07-12T05:44:38Z" finished-at="2020-07-12T05:45:28Z">
     <groups>
     </groups>
-    <test name="Covid test" duration-ms="47703" started-at="2020-07-11T20:47:50Z" finished-at="2020-07-11T20:48:38Z">
+    <test name="Covid test" duration-ms="49609" started-at="2020-07-12T05:44:38Z" finished-at="2020-07-12T05:45:28Z">
       <class name="covid.testng">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:covid.testng@357246de]" name="beforeTest" is-config="true" duration-ms="911" started-at="2020-07-12T02:17:50Z" finished-at="2020-07-12T02:17:51Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:covid.testng@357246de]" name="beforeTest" is-config="true" duration-ms="677" started-at="2020-07-12T11:14:38Z" finished-at="2020-07-12T11:14:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="a_Test()[pri:0, instance:covid.testng@357246de]" name="a_Test" duration-ms="5046" started-at="2020-07-12T02:17:51Z" finished-at="2020-07-12T02:17:56Z">
+        <test-method status="PASS" signature="a_Test()[pri:0, instance:covid.testng@357246de]" name="a_Test" duration-ms="4989" started-at="2020-07-12T11:14:39Z" finished-at="2020-07-12T11:14:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a_Test -->
-        <test-method status="PASS" signature="b_Test()[pri:1, instance:covid.testng@357246de]" name="b_Test" duration-ms="41735" started-at="2020-07-12T02:17:56Z" finished-at="2020-07-12T02:18:38Z">
+        <test-method status="PASS" signature="b_Test()[pri:1, instance:covid.testng@357246de]" name="b_Test" duration-ms="43934" started-at="2020-07-12T11:14:44Z" finished-at="2020-07-12T11:15:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b_Test -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:covid.testng@357246de]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-07-12T02:18:38Z" finished-at="2020-07-12T02:18:38Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:covid.testng@357246de]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-07-12T11:15:28Z" finished-at="2020-07-12T11:15:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
